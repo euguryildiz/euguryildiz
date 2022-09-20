@@ -1,5 +1,5 @@
 
-<h1>Selam Genco, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, Ben Uğur Yıldız</h1>
+<h1>Selam Genco, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"> Ben Uğur Yıldız</h1>
 
 <h3>Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
